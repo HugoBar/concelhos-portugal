@@ -1,0 +1,212 @@
+[
+  {
+    "ipmaID": 1010500,
+    "latitude": "40.6413",
+    "longitude": "-8.6535",
+    "local": "Aveiro"
+  },
+  {
+    "ipmaID": 1020500,
+    "latitude": "38.0200",
+    "longitude": "-7.8700",
+    "local": "Beja"
+  },
+  {
+    "ipmaID": 1030300,
+    "latitude": "41.5475",
+    "longitude": "-8.4227",
+    "local": "Braga"
+  },
+  {
+    "ipmaID": 1030800,
+    "latitude": "41.4434",
+    "longitude": "-8.2938",
+    "local": "Guimarães"
+  },
+  {
+    "ipmaID": 1040200,
+    "latitude": "41.8076",
+    "longitude": "-6.7606",
+    "local": "Bragança"
+  },
+  {
+    "ipmaID": 1050200,
+    "latitude": "39.8217",
+    "longitude": "-7.4957",
+    "local": "Castelo Branco"
+  },
+  {
+    "ipmaID": 1060300,
+    "latitude": "40.2081",
+    "longitude": "-8.4194",
+    "local": "Coimbra"
+  },
+  {
+    "ipmaID": 1070500,
+    "latitude": "38.5701",
+    "longitude": "-7.9104",
+    "local": "Évora"
+  },
+  {
+    "ipmaID": 1080500,
+    "latitude": "37.0146",
+    "longitude": "-7.9331",
+    "local": "Faro"
+  },
+  {
+    "ipmaID": 1081505,
+    "latitude": "37.0168",
+    "longitude": "-8.9403",
+    "local": "Sagres"
+  },
+  {
+    "ipmaID": 1081100,
+    "latitude": "37.1500",
+    "longitude": "-8.5200",
+    "local": "Portimão"
+  },
+  {
+    "ipmaID": 1080800,
+    "latitude": "37.1397",
+    "longitude": "-8.0202",
+    "local": "Loulé"
+  },
+  {
+    "ipmaID": 1090700,
+    "latitude": "40.5379",
+    "longitude": "-7.2647",
+    "local": "Guarda"
+  },
+  {
+    "ipmaID": 1090821,
+    "latitude": "40.4075",
+    "longitude": "-7.5665",
+    "local": "Penhas Douradas"
+  },
+  {
+    "ipmaID": 1100900,
+    "latitude": "39.7473",
+    "longitude": "-8.8069",
+    "local": "Leiria"
+  },
+  {
+    "ipmaID": 1110600,
+    "latitude": "38.7660",
+    "longitude": "-9.1286",
+    "local": "Lisboa"
+  },
+  {
+    "ipmaID": 1121400,
+    "latitude": "39.2900",
+    "longitude": "-7.4200",
+    "local": "Portalegre"
+  },
+  {
+    "ipmaID": 1131200,
+    "latitude": "41.1580",
+    "longitude": "-8.6294",
+    "local": "Porto"
+  },
+  {
+    "ipmaID": 1141600,
+    "latitude": "39.2000",
+    "longitude": "-8.7400",
+    "local": "Santarém"
+  },
+  {
+    "ipmaID": 1151200,
+    "latitude": "38.5246",
+    "longitude": "-8.8856",
+    "local": "Setúbal"
+  },
+  {
+    "ipmaID": 1151300,
+    "latitude": "37.9560",
+    "longitude": "-8.8643",
+    "local": "Sines"
+  },
+  {
+    "ipmaID": 1160900,
+    "latitude": "41.6952",
+    "longitude": "-8.8365",
+    "local": "Viana do Castelo"
+  },
+  {
+    "ipmaID": 1171400,
+    "latitude": "41.3053",
+    "longitude": "-7.7440",
+    "local": "Vila Real"
+  },
+  {
+    "ipmaID": 1182300,
+    "latitude": "40.6585",
+    "longitude": "-7.9120",
+    "local": "Viseu"
+  },
+  {
+    "ipmaID": 2310300,
+    "latitude": "32.6485",
+    "longitude": "-16.9084",
+    "local": "Funchal"
+  },
+  {
+    "ipmaID": 2320100,
+    "latitude": "33.0700",
+    "longitude": "-16.3400",
+    "local": "Porto Santo"
+  },
+  {
+    "ipmaID": 3410100,
+    "latitude": "36.9563",
+    "longitude": "-25.1409",
+    "local": "Vila do Porto"
+  },
+  {
+    "ipmaID": 3420300,
+    "latitude": "37.7415",
+    "longitude": "-25.6677",
+    "local": "Ponta Delgada"
+  },
+  {
+    "ipmaID": 3430100,
+    "latitude": "38.6700",
+    "longitude": "-27.2200",
+    "local": "Angra do Heroísmo"
+  },
+  {
+    "ipmaID": 3440100,
+    "latitude": "39.0800",
+    "longitude": "-28.0000",
+    "local": "Santa Cruz da Graciosa"
+  },
+  {
+    "ipmaID": 3450200,
+    "latitude": "38.6842",
+    "longitude": "-28.2133",
+    "local": "Velas"
+  },
+  {
+    "ipmaID": 3460200,
+    "latitude": "38.5325",
+    "longitude": "-28.5237",
+    "local": "Madalena"
+  },
+  {
+    "ipmaID": 3470100,
+    "latitude": "38.5363",
+    "longitude": "-28.6315",
+    "local": "Horta"
+  },
+  {
+    "ipmaID": 3480200,
+    "latitude": "39.4500",
+    "longitude": "-31.1300",
+    "local": "Santa Cruz das Flores"
+  },
+  {
+    "ipmaID": 3490100,
+    "latitude": "39.6700",
+    "longitude": "-31.1200",
+    "local": "Vila do Corvo"
+  }
+]

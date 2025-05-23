@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Script to fetch all Portugal's districts and generate a .json file to support development of climato",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,9 +19,12 @@
   },
   "homepage": "https://github.com/HugoBar/distritos-portugal#readme",
   "devDependencies": {
+    "@types/node": "^22.15.21",
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "cheerio": "^1.0.0"
+    "@googlemaps/google-maps-services-js": "^3.4.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0"
   }
 }
